@@ -1,0 +1,69 @@
+.circle>.gambar-saya {
+   width: 170px;
+   height: 200px;
+   border-radius: 50%;
+   margin: auto;
+   border: 1px dotted blanchedalmond
+}
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@380;900&family=Titillium+Web:ital,wght@0,900;1,700&display=swap');
+* {
+    font-family: 'Heebo', sans-serif;
+}
+
+.wayv {
+  font-size 20px;
+    font-weight: 30;
+    color: gray; //base color
+    color: rgb(6, 240, 6); // RGB color
+    color: #3d3d; // HEX color
+}
+
+.nct127 {
+    font-size 15px;
+    font-weight: 20;
+    color: darksalmon; //base color
+    color: rgb(6, 240, 6); // RGB color
+    color: #3d3d; // HEX color
+}
+
+.nctdream {
+    font-size 15px;
+    font-weight: 20;
+    color: gray; //base color
+    color: rgb(6, 240, 6); // RGB color
+    color: #3d3d; // HEX color
+}
+
+.nct2020 {
+    font-size 15px;
+    font-weight: 20;
+    color: darksalmon; //base color
+    color: rgb(6, 240, 6); // RGB color
+    color: #3d3d; // HEX color
+}
+
+.bts {
+    font-size 15px;
+    font-weight: 20;
+    color: gray; //base color
+    color: rgb(6, 240, 6); // RGB color
+    color: #3d3d; // HEX color
+}
+
+.enhypen {
+    font-size 15px;
+    font-weight: 20;
+    color: darksalmon; //base color
+    color: rgb(6, 240, 6); // RGB color
+    color: #3d3d; // HEX color
+}
+
+.epex {
+    font-size 15px;
+    font-weight: 20;
+    color: darksalmon; //base color
+    color: rgb(6, 240, 6); // RGB color
+    color: #3d3d; // HEX color
+}
